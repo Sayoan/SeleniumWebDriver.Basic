@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using SeleniumWebDriver.Basics.SeleniumUteis;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +26,7 @@ namespace SeleniumWebDriver.Basics
             driver = new ChromeDriver(SeleniumUteis.SeleniumUteis.getPathSeleniumDriver());
 
             //Ação que navega para o site
-            driver.Navigate().GoToUrl("https://testmoz.com/1");
+            driver.Navigate().GoToUrl(StringUteis.URL_Get);
 
             //Ação que maximiza a tela
             driver.Manage().Window.Maximize();
