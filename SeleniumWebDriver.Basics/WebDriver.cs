@@ -24,7 +24,7 @@ namespace SeleniumWebDriver.Basics
             //ChromeDriver: nativo do selenium, usar path para o driver
             //Criei um método que retorna o path do driver: SeleniumUteis.SeleniumUteis.getPathSeleniumDriver
             driver = new ChromeDriver(SeleniumUteis.SeleniumUteis.getPathSeleniumDriver());
-
+                   
             //Ação que navega para o site
             driver.Navigate().GoToUrl(StringUteis.URL);
 

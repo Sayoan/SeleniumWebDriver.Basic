@@ -45,6 +45,5 @@ E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\bin\
 E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\bin\Debug\nunit.framework.xml
 E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\bin\Debug\WebDriver.xml
 E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\bin\Debug\WebDriver.Support.xml
-E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\obj\Debug\SeleniumWebDriver.Basics.csprojResolveAssemblyReference.cache
 E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\obj\Debug\SeleniumWebDriver.Basics.dll
 E:\SeleniumWebDriver.Basic\SeleniumWebDriver.Basic\SeleniumWebDriver.Basics\obj\Debug\SeleniumWebDriver.Basics.pdb
