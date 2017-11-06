@@ -8,16 +8,15 @@ namespace SeleniumWebDriver.Basics.SeleniumUteis
 {
    public class StringUteis
     {
-
-
-        private static string URL = "https://testmoz.com/1";
-
-        public static string URL_Get
+      //Revisar para instanciar a String primeiro e depois alocar 
+        public static string URL
         {
             get { return URL; }
-            set { URL = value; }
+            set { URL = "https://testmoz.com/1"; }
         }
 
+      
+       
 
     }
 }

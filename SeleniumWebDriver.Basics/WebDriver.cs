@@ -26,7 +26,7 @@ namespace SeleniumWebDriver.Basics
             driver = new ChromeDriver(SeleniumUteis.SeleniumUteis.getPathSeleniumDriver());
 
             //Ação que navega para o site
-            driver.Navigate().GoToUrl(StringUteis.URL_Get);
+            driver.Navigate().GoToUrl(StringUteis.URL);
 
             //Ação que maximiza a tela
             driver.Manage().Window.Maximize();
