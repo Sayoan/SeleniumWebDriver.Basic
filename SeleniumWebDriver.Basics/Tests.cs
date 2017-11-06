@@ -33,7 +33,7 @@ namespace SeleniumWebDriver.Basics
 
             //Inserir um valor em campo inpuut: limpe o campo e envie a string/valor
             studentLogin.inputYourName.Clear();
-            studentLogin.inputYourName.SendKeys("Nome teste quiz");
+            studentLogin.inputYourName.SendKeys("TESTE GIT ALTERAÇÃO DE DADOS");
 
             //Após inserir as informações clicar no botão para continuar
             studentLogin.btnContinue.Click();
