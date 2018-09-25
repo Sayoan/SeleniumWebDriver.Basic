@@ -69,3 +69,5 @@ Validar resultados de teste
 * Clique com o botão direito e clique em "Run Selected Tests"
 * Após executar: Verde -> Assert validado com sucesso
 * Após executar: Vermelho -> Alguma ação não realizada ou Assert não validado
+
+# Thks https://github.com/saymowan
